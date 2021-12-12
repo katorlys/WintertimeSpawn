@@ -5,7 +5,7 @@
 
 Winter approaching, so do Minecraft! It is so cold that the lake froze, and all the trees are covered by snow. A great time for skating actually!<br>
 <br>
-<b>Native Version:</b> Java 1.16.5<br>
+<b>Native Version:</b> Java Edition 1.16.5<br>
 <b>Approximate Size:</b> 80x80<br>
 <b>File Type:</b> SCHEMATIC<br>
 
@@ -34,8 +34,8 @@ Still unable to download? Try downloading the entire repository through the mirr
 
 - The build is free to use under the CC-BY-NC-ND-4.0 license. All the images and videos on this page are copyrighted by Katorly.
 - Everyone has their own preference. Please don't leave bad comments if you dislike it.
-- "Supported Version" means the building will not cause errors in games of this version and above.
+- Used shaders: Complementary Shaders.
 - Pasting the schematic file with WorlEdit in-game may cause the game to crash, so it is recommended to use softwares such as McEdit or use FastAsyncWorldEdit to import it in a server.
 - If you are pasting the schematic file in-game with WorldEdit, make sure to use "//paste -e".
 
-[![License](https://img.shields.io/badge/license-CC--BY--NC--ND--4.0-green?style=for-the-badge)](http://creativecommons.org/licenses/by-nc-nd/4.0)
+[![License](https://img.shields.io/badge/license-CC%20BY--NC--ND--4.0-green?style=for-the-badge)](http://creativecommons.org/licenses/by-nc-nd/4.0)
