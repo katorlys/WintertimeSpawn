@@ -27,8 +27,8 @@ Winter approaching, so do Minecraft! It is so cold that the lake froze, and all 
 
 ## Download
 
-<a href="https://github.com/katorlys/WintertimeSpawn/raw/main/WintertimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download1.png"></a><a href="https://github.com.cnpmjs.org/katorlys/WintertimeSpawn/raw/main/WintertimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download2.png"></a><a href="https://hub.fastgit.org/katorlys/WintertimeSpawn/raw/main/WintertimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download3.png"></a><br>
-Still unable to download? Try downloading the entire repository through the mirror sites.<br>
+<a href="https://github.com/katorlys/WintertimeSpawn/raw/main/WintertimeSpawn.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/github-download.png"></a><a href="https://cdn.jsdelivr.net/gh/katorlys/WintertimeSpawn/WintertimeSpawn.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/jsdelivr-download.png"></a><a href="https://github.katorly.workers.dev/katorlys/WintertimeSpawn/raw/main/WintertimeSpawn.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/cloudflare-download.png"></a><br>
+Unable to download? Try downloading the entire repository.<br>
 
 ## Notice
 
